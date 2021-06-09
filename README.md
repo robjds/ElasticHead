@@ -2,7 +2,7 @@
 Simscape multibody simulation of a robot crossing an obstacle, with the effect of an elastic neck mass incorporated.
 
 Described in the paper: 
-"Compliance, Mass Distribution and Contact Forces in Cursorial and Scansorial Locomotion with Biorobotic Physical Models"
+"Compliance, Mass Distribution and Contact Forces in Cursorial and Scansorial Locomotion with Biorobotic Physical Models" (https://doi.org/10.1080/01691864.2021.1887760)
 More details at https://bio.is.mpg.de/
 
 Left and right hand sides of the robot are separately driven by electric motors.
